@@ -8,5 +8,5 @@
 Für dieses Programm gibt es keine bestehenden Voraussetzungen abgesehen von einer installierten Python Version
 
 # Installation
-In einem Terminal kann das Programm mit dem folgenden Befehl gestartet werden
+In einem Terminal kann das Programm mit dem folgenden Befehl gestartet werden<br>
 <code>python Hello_World.py</code>
